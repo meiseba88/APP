@@ -10,6 +10,6 @@
 ========苹果APP==============
 
 国产浏览器(如 UC、360、QQ、百度) 不定期可能会屏蔽网站
-建议使用谷歌浏览器直接访问：www.dianyingtop.com
+建议使用谷歌浏览器直接访问：www.dianyingxia.org
 
 若你是 iPhone、Mac 的用户，建议使用系统自带的 Safari 浏览器
